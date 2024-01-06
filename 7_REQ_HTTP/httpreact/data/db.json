@@ -21,9 +21,14 @@
       "id": 4
     },
     {
-      "name": "Terno",
-      "price": "2000",
-      "id": 5
+      "name": "Vestido",
+      "price": "2202",
+      "id": 6
+    },
+    {
+      "name": "Boné",
+      "price": "50",
+      "id": 7
     }
   ]
 }
